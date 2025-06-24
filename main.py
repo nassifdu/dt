@@ -17,7 +17,6 @@ print("loading...")
 import style as st
 import chat
 import titles
-import textual as tek
 
 clear()
 
